@@ -36,7 +36,7 @@ body{
     font-size: 1.7rem;
     font-weight: 500;
     margin-left: 35px;
-   opacity: 0;
+    opacity: 0;
     color:beige;
     animation: slideTop .5s ease forwards;
     animation-delay: 1s;
@@ -66,9 +66,6 @@ body{
     padding: 70px 10% 0;
     justify-content: space-between;
     
-    
-    
-
 }
 
 .content h1{
@@ -119,7 +116,7 @@ body{
     position: relative;
     z-index: 1;
 }
-.icon{
+.icon {
     position: absolute;
     bottom: 40px;
     width: 170px;
